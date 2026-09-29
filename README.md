@@ -1,16 +1,31 @@
-## Hi there 👋
+# Mohammed Mahfuj Azad Sanim
 
-<!--
-**mahfujazadsanim/mahfujazadsanim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Junior Machine Learning Engineer | Full Stack Web Developer**
 
-Here are some ideas to get you started:
+Focused on AI/ML and developing web applications 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack & Capabilities
+
+| Category | Skills & Technologies |
+| :--- | :--- |
+| **Programming Languages** | Python, JavaScript |
+| **Backend Frameworks** | Django |
+| **Frontend Fundamentals** | HTML, CSS |
+| **Databases & Querying** | SQLite, MySQL |
+| **AI & Machine Learning** | Data Preprocessing, Feature Engineering, Model Training, Model Evaluation |
+| **Version Control & Hosting** | Git, GitHub |
+
+---
+
+### 🎓 Education
+
+* **Diploma in Computer Science & Technology** — Chittagong Polytechnic Institute
+
+---
+
+### 📫 Connect with Me
+
+- **Email:** [mahfujazadsanim@gmail.com]
+- **LinkedIn:** [https://www.linkedin.com/in/m-a-sanim/]
